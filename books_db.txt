@@ -1,0 +1,4 @@
+ID | Title | Author | Year | Status
+----------------------------------------
+1 | Java Programming | John Smith | 2020 | Available
+2 | Python Basics | Jane Doe | 2021 | Available
